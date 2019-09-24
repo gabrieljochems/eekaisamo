@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saeseewogh.jobdonetick.co.uk/sitemap.xml
